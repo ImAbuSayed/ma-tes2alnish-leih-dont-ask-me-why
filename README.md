@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-tes2alnish-leih-dont-ask-me-why/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Ma Tes2alnish Leih – Don't ask me why.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
